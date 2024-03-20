@@ -1,51 +1,51 @@
-## Projet Transpiler Neural
+## Neural Transpiler Project
 
 ### Introduction
 
-Le Projet Transpiler Neural vise à créer un système de transpilation neurale révolutionnaire qui permettra aux développeurs de convertir automatiquement du code source d'un langage de programmation à un autre. Notre objectif est de fournir une solution innovante pour faciliter le développement logiciel et encourager la collaboration entre les communautés de développeurs.
+The Neural Transpiler Project aims to create a groundbreaking neural transpilation system that will enable developers to automatically convert source code from one programming language to another. Our goal is to provide an innovative solution to facilitate software development and encourage collaboration among developer communities.
 
-### Aperçu du Projet
+### Project Overview
 
-Le Projet Transpiler Neural tire parti des avancées récentes en matière d'intelligence artificielle et de machine learning pour développer un système de transpilation neurale capable de convertir efficacement le code source entre différents langages de programmation. Nous visons à créer un environnement convivial pour les développeurs, tout en garantissant la précision et la fiabilité de la conversion du code.
+The Neural Transpiler Project leverages recent advancements in artificial intelligence and machine learning to develop a neural transpilation system capable of efficiently converting source code between different programming languages. We aim to create a user-friendly environment for developers while ensuring the accuracy and reliability of code conversion.
 
-### Objectifs
+### Objectives
 
-- Développer un système de transpilation neurale fonctionnel et précis.
-- Prendre en charge la conversion de code source entre plusieurs langages de programmation populaires.
-- Encourager la collaboration et l'innovation dans le domaine de la transpilation automatique.
-- Créer une communauté de développeurs engagés à contribuer au projet et à l'améliorer continuellement.
+- Develop a functional and accurate neural transpilation system.
+- Support the conversion of source code between multiple popular programming languages.
+- Encourage collaboration and innovation in the field of automatic transpilation.
+- Build a community of developers committed to contributing to the project and continuously improving it.
 
-### Problèmes Rencontrés
+### Challenges Encountered
 
-Au cours du développement du Projet Transpiler Neural, nous avons rencontré plusieurs défis techniques, notamment :
+During the development of the Neural Transpiler Project, we have encountered several technical challenges, including:
 
-- **Sélection d'un modèle pré-entraîné adéquat** : Nous n'avons pas encore trouvé de module pré-entraîné compatible avec notre code `trainer.py`, ce qui a entravé notre progression.
-- **Adaptation de l'IA au langage spécifique au code source** : La complexité du langage spécifique au code source rend difficile l'adaptation des modèles d'intelligence artificielle à notre système.
-- **Optimisation de la précision et de la fiabilité** : Nous travaillons activement à améliorer la précision et la fiabilité de notre système de transpilation, mais cela reste un défi majeur.
+- **Selection of a Suitable Pre-trained Model**: We have not yet found a pre-trained module compatible with our `trainer.py` code, which has hindered our progress.
+- **Adaptation of AI to the Language Specific to the Source Code**: The complexity of the language specific to the source code makes it difficult to adapt artificial intelligence models to our system.
+- **Optimization of Accuracy and Reliability**: We are actively working to improve the accuracy and reliability of our transpilation system, but this remains a major challenge.
 
-### Problèmes Résolus
+### Challenges Resolved
 
-Malgré les obstacles rencontrés, nous avons réussi à surmonter certains défis, notamment :
+Despite the obstacles encountered, we have successfully overcome some challenges, including:
 
-- Développement d'un prototype fonctionnel de transpilation neurale.
-- Amélioration de la structure du code et de la gestion des données pour une meilleure compatibilité avec les modules pré-entraînés.
-- Collaboration avec la communauté pour explorer de nouvelles approches et partager des idées.
+- Development of a functional prototype of the neural transpilation system.
+- Improvement of code structure and data management for better compatibility with pre-trained modules.
+- Collaboration with the community to explore new approaches and share ideas.
 
-### Problèmes à Résoudre
+### Challenges to Address
 
-Nous sommes conscients qu'il reste encore beaucoup à faire pour atteindre nos objectifs, notamment :
+We are aware that there is still much to be done to achieve our goals, including:
 
-- Trouver un module pré-entraîné ou entraîner notre propre modèle adapté à notre cas d'utilisation.
-- Améliorer la précision et la fiabilité de notre système de transpilation en effectuant des ajustements continus.
-- Élargir notre communauté de développeurs et encourager la participation à la résolution des problèmes restants.
+- Finding a pre-trained module or training our own model suitable for our use case.
+- Improving the accuracy and reliability of our transpilation system through continuous adjustments.
+- Expanding our developer community and encouraging participation in addressing remaining issues.
 
-### Comment Contribuer
+### How to Contribute
 
-Nous invitons les développeurs passionnés par l'intelligence artificielle, le machine learning et le développement logiciel à rejoindre notre communauté et à contribuer au Projet Transpiler Neural. Voici quelques façons de contribuer :
+We invite developers passionate about artificial intelligence, machine learning, and software development to join our community and contribute to the Neural Transpiler Project. Here are some ways to contribute:
 
-- Soumettre des pull requests pour corriger des bugs, ajouter de nouvelles fonctionnalités ou améliorer la documentation.
-- Participer aux discussions sur les problèmes ouverts et proposer des idées pour améliorer le projet.
-- Tester le système de transpilation dans différents scénarios et fournir des retours d'expérience pour aider à son amélioration continue.
-- Partager le projet avec d'autres développeurs et encourager leur participation à la communauté.
+- Submit pull requests to fix bugs, add new features, or improve documentation.
+- Participate in discussions on open issues and propose ideas to enhance the project.
+- Test the transpilation system in different scenarios and provide feedback to help with its continuous improvement.
+- Share the project with other developers and encourage their participation in the community.
 
-Ensemble, nous pouvons surmonter les défis et créer un système de transpilation neurale puissant et innovant qui révolutionnera la façon dont les développeurs travaillent avec différents langages de programmation. Rejoignez-nous dans cette aventure passionnante !
+Together, we can overcome challenges and create a powerful and innovative neural transpilation system that will revolutionize how developers work with different programming languages. Join us on this exciting journey!
