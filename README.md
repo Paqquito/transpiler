@@ -20,7 +20,7 @@ Le Projet Transpiler Neural tire parti des avancées récentes en matière d'int
 Au cours du développement du Projet Transpiler Neural, nous avons rencontré plusieurs défis techniques, notamment :
 
 - **Sélection d'un modèle pré-entraîné adéquat** : Nous n'avons pas encore trouvé de module pré-entraîné compatible avec notre code `trainer.py`, ce qui a entravé notre progression.
-- **Adaptation de l'IA au code spécifique au RTE** : La complexité du langage spécifique au RTE rend difficile l'adaptation des modèles d'intelligence artificielle à notre système.
+- **Adaptation de l'IA au langage spécifique au code source** : La complexité du langage spécifique au code source rend difficile l'adaptation des modèles d'intelligence artificielle à notre système.
 - **Optimisation de la précision et de la fiabilité** : Nous travaillons activement à améliorer la précision et la fiabilité de notre système de transpilation, mais cela reste un défi majeur.
 
 ### Problèmes Résolus
